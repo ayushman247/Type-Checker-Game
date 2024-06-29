@@ -32,5 +32,3 @@ your score gets incremented along with bonus time (based on the difficulty level
 Once the game ends you can see your current score & the highest score.
 
 You can restart the game by clicking the **Start again** button
-
-> You can play the live game here https://easy-typing-game.netlify.app/
